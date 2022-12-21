@@ -1,2 +1,1 @@
-# efficient_ss
-Efficient Semantic Segmentation
+# Efficient Semantic Segmentation
